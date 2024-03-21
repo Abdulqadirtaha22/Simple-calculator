@@ -1,9 +1,10 @@
 {
-  "name": "simple-calculator",
-  "version": "1.0.0",
+  "name": "aq253t-simple-calculator",
+  "version": "1.1.2",
   "description": "A simple calculator with typrscript Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
